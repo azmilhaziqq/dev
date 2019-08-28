@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267872999162",
+    "firebase_url": "https://bookhausv2.firebaseio.com",
+    "project_id": "bookhausv2",
+    "storage_bucket": "bookhausv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267872999162:android:eb5850a5975d6309",
+        "android_client_info": {
+          "package_name": "com.example.bookhaus_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267872999162-ufea3ppbchjmfghdh1ahi96jun3ttpuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlXCyqnEmbVumWj0feR2Qi4FLJiBh-Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267872999162-ufea3ppbchjmfghdh1ahi96jun3ttpuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
